@@ -1,4 +1,4 @@
-# New-Keyword
+# New Keyword In JavaScript
 
 Here's what happens behind the scenes when the new keyword is used:
 
